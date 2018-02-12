@@ -218,8 +218,9 @@ span.top-wrap{
 }
 
 .services .box-services p{
-  padding-right: 30px;
-  text-align: left;
+  margin-top: 7px;
+  text-align: none;
+  
 }
 
 .happy{
